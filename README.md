@@ -3,6 +3,6 @@
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on create ToDoList programm with messanger and e-mail client 
 - 📫 You can contact with me at Telegram @vprozorov
-- I'am train kata [CodeWars](https://www.codewars.com/users/vprozorov93)
+- I'm training kata [CodeWars](https://www.codewars.com/users/vprozorov93)
 
 Thanks:)
